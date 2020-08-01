@@ -1,0 +1,45 @@
+{
+  "registerPageData": {
+    "header": "Create an account",
+    "agreementLabel":"I have readTerms and agreements",
+    "promptLabel": "Already have an account? Just click Log in."
+  },
+  "loginPageData": {
+    "header": "Welcome back!"
+  },
+  "homePageData": {
+    "header": "Adaptive learning platform"
+  },
+
+  "settingsPasswordData": {
+    "TC-003-08-oldPasswordLabel": "Old password",
+    "TC-003-09-newPasswordLabel": "New password",
+    "TC-003-10-confirmNewPasswordLabel": "Confirm new password",
+    "TC-003-11-updatePasswordButton": "Update Password"
+
+  },
+
+"linksPageData": {
+    "resumeLink": "https://docs.google.com/document/d/10YxY2G35iNST-Ht1qWY-DWYRUiZtWlR4mFoE-cNZrjM/edit#",
+    "resumeText": "Google Doc resume link",
+    "LinkedIn": "https://www.linkedin.com/in/bogutskii/",
+    "LinkedInText": "LinkedIn profile link",
+    "Facebook": "https://www.facebook.com/groups/185538711998736/",
+    "FacebookText": "Facebook profile link",
+    "GitHub": "https://github.com/bogutski",
+    "GitHubText": "GitHub profile link",
+    "Codewars": "https://www.codewars.com/users/Viktor%20Bogutskii",
+    "CodewarsText": "Codewars profile link",
+    "saveBtnText": "Save",
+    "successMSG": "User Links updated",
+    "errorMSG": ""
+  },
+
+  "termsAndAgreements": {
+    "drawerTitle": "Terms and agreements",
+    "lastModified": "This Agreement was last modified on 05/22/2020"
+  }
+
+
+
+}
