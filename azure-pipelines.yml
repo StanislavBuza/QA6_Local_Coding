@@ -7,7 +7,7 @@ trigger:
 - azure
 
 pool:
-  vmImage: 'macOS-latest'
+  vmImage: 'macOs-latest'
 
 steps:
 - task: NodeTool@0
@@ -16,6 +16,5 @@ steps:
   displayName: 'Install Node.js'
 
 - script: |
-    npm install
-    npm run qa6
+      npm run 20601
   displayName: 'npm install and test'
